@@ -89,16 +89,16 @@ caption{
 }
 
 thead th, tfoot th{
-  background-color: lightcoral;
+  background-color: white;
 }
 
-thead th,td{
+thead td{
   color: white;
   background-color: lightcoral;
   text-align: center;
 }
 
-tfoot th,td{
+tfoot td{
  font-weight: bold;
   background-color: white;
 }
