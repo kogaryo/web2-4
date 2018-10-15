@@ -92,13 +92,13 @@ thead th, tfoot th{
   background-color: lightcoral;
 }
 
-thead td{
+thead th,td{
   color: white;
   background-color: lightcoral;
   text-align: center;
 }
 
-tfoot td{
+tfoot th,td{
  font-weight: bold;
   background-color: white;
 }
